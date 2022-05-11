@@ -10,3 +10,4 @@
 - [ ] [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
 - [ ] [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [ ] [Python for Data Analysis](https://wesmckinney.com/book/)
+- [ ] [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
