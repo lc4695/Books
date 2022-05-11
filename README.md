@@ -7,10 +7,12 @@
 
 # Online Books
 R
+- [ ] [Just Enough R](https://benwhalley.github.io/just-enough-r/)
 - [ ] [R Essentials for Six Sigma Analytics](https://bookdown.org/content/4e34e34f-ca48-4090-90ca-8ae7b1b65e0e/)
 - [ ] [The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
 - [ ] [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [ ] [Advanced R](https://adv-r.hadley.nz/index.html)
+
 
 Python
 - [ ] [Python for Data Analysis](https://wesmckinney.com/book/)
