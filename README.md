@@ -15,3 +15,8 @@ R
 Python
 - [ ] [Python for Data Analysis](https://wesmckinney.com/book/)
 - [ ] [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+Styleguide
+- [ ] [The tidyverse style guide](https://style.tidyverse.org/index.html)
+- [ ] [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+- [ ] [Google’s R Style Guide](https://google.github.io/styleguide/Rguide.html)
