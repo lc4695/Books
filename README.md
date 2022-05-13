@@ -1,12 +1,12 @@
 # Book List
 - [ ] [a-beginners-guide-to-data-and-analytics](https://github.com/lc4695/Books/blob/main/a-beginners-guide-to-data-and-analytics.pdf) from Harvard Business School Online
 - [ ] [Data Science for Supply Chain Forecasting](https://github.com/lc4695/Books/blob/main/Data%20Science%20for%20Supply%20Chain%20Forecasting.pdf)
-- [ ] [Practical Statistics for Data Scientists](https://github.com/lc4695/Books/blob/main/Practical%20Statistics%20for%20Data%20Scientists.pdf)
 - [ ] [Six Sigma with R](https://github.com/lc4695/Books/blob/main/Six%20Sigma%20with%20R.pdf)
 - [ ] [Problem solving and data analysis using Minitab : a clear and easy guide to six sigma methodology](https://github.com/lc4695/Books/blob/main/Problem%20Solving%20and%20Data%20Analysis%20using%20Minitab%20-%202013%20-%20Khan.pdf)
 - [ ] [Lean Six Sigma Approaches in Manufacturing, Services, and Production](https://github.com/lc4695/Books/blob/main/Lean%20Six%20Sigma%20Approaches%20in%20Manufacturing%2C%20Services%2C%20and%20Production.pdf)
 - [ ] [How to Make Mistakes in Python](https://github.com/lc4695/Books/blob/main/How%20to%20Make%20Mistakes%20in%20Python.pdf)
 - [ ] [R in Action](https://github.com/lc4695/Books)
+- [ ] [Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://github.com/lc4695/Books/blob/main/Practical%20Statistics%20for%20Data%20Scientists%2050%2B%20Essential%20Concepts%20Using%20R%20and%20Python.pdf)
 
 # Online Books
 R
