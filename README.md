@@ -16,6 +16,7 @@ R
 - [ ] [R for Data Science](https://r4ds.had.co.nz/index.html)
 - [ ] [Advanced R](https://adv-r.hadley.nz/index.html)
 - [ ] [R Graphics Cookbook](https://r-graphics.org/)
+- [ ] [R Cookbook](https://rc2e.com/)
 
 
 Python
