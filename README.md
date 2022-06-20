@@ -17,6 +17,7 @@ R
 - [ ] [Advanced R](https://adv-r.hadley.nz/index.html)
 - [ ] [R Graphics Cookbook](https://r-graphics.org/)
 - [ ] [R Cookbook](https://rc2e.com/)
+- [ ] [Tidy Modeling with R](https://www.tmwr.org/)
 
 
 Python
