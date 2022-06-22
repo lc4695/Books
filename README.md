@@ -28,7 +28,7 @@
 - [ ] [R Graphics Cookbook](https://r-graphics.org/)
 - [ ] [R Cookbook](https://rc2e.com/)
 - [ ] [Tidy Modeling with R](https://www.tmwr.org/)
-- [ ] [Exploratory Data Analysis and Visualization](https://edav.info/)
+- [ ] [Exploratory Data Analysis and Visualization](https://edav.info/) Course materials from Columbia University
 
 
 ### Python
