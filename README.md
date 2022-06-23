@@ -1,5 +1,5 @@
 # Table of contents
-- [Book List](#book-list)
+- [My Book List](#my-book-list)
 - [Online Books](#online-books)
   * [R](#r)
   * [Python](#python)
@@ -8,7 +8,7 @@
 
 ---
 
-## Book List
+## My Book List
 - [ ] ⭐[Six Sigma with R](https://github.com/lc4695/Books/blob/main/Six%20Sigma%20with%20R.pdf)
 - [ ] ⭐[Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://github.com/lc4695/Books/blob/main/Practical%20Statistics%20for%20Data%20Scientists%2050%2B%20Essential%20Concepts%20Using%20R%20and%20Python.pdf)
 - [ ] [A Beginners Guide to Data and Analytics](https://github.com/lc4695/Books/blob/main/a-beginners-guide-to-data-and-analytics.pdf) from Harvard Business School Online
