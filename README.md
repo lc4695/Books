@@ -33,6 +33,9 @@
 - [ ] [Tidy Modeling with R](https://www.tmwr.org/)
 - [ ] [Exploratory Data Analysis and Visualization](https://edav.info/) Course materials from Columbia University
 
+R Markdown
+- [ ] [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+
 
 ### Python
 - [ ] ⭐[Python for Data Analysis](https://wesmckinney.com/book/)
