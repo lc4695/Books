@@ -17,6 +17,7 @@
 - [ ] [Lean Six Sigma Approaches in Manufacturing, Services, and Production](https://github.com/lc4695/Books/blob/main/Lean%20Six%20Sigma%20Approaches%20in%20Manufacturing%2C%20Services%2C%20and%20Production.pdf)
 - [ ] [How to Make Mistakes in Python](https://github.com/lc4695/Books/blob/main/How%20to%20Make%20Mistakes%20in%20Python.pdf)
 - [ ] [R in Action](https://github.com/lc4695/Books/blob/main/R%20in%20Action.pdf)
+- [ ] [Pyomo — Optimization Modeling in Python](https://github.com/lc4695/Books/blob/main/Pyomo%20%E2%80%94%20Optimization%20Modeling%20in%20Python.pdf)
 
 
 ## Online Books
@@ -40,7 +41,6 @@ R Markdown
 ### Python
 - [ ] ⭐[Python for Data Analysis](https://wesmckinney.com/book/)
 - [ ] ⭐[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [ ] [Pyomo — Optimization Modeling in Python](https://github.com/lc4695/Books/blob/main/Pyomo%20%E2%80%94%20Optimization%20Modeling%20in%20Python.pdf)
 
 ### Data Science
 - [ ] [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html)
