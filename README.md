@@ -33,6 +33,7 @@
 - [ ] [R Cookbook](https://rc2e.com/)
 - [ ] [Tidy Modeling with R](https://www.tmwr.org/)
 - [ ] [Exploratory Data Analysis and Visualization](https://edav.info/) Course materials from Columbia University
+- [ ] [Experimental Design and Process Optimization with R](https://bookdown.org/gerhard_krennrich/doe_and_optimization/)
 
 R Markdown
 - [ ] [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
