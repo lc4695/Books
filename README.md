@@ -40,6 +40,7 @@ R Markdown
 ### Python
 - [ ] ⭐[Python for Data Analysis](https://wesmckinney.com/book/)
 - [ ] ⭐[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [ ] [Pyomo — Optimization Modeling in Python](https://github.com/lc4695/Books/blob/main/Pyomo%20%E2%80%94%20Optimization%20Modeling%20in%20Python.pdf)
 
 ### Data Science
 - [ ] [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html)
