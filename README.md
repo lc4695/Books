@@ -24,6 +24,7 @@
 ### R
 - [ ] ⭐[R Essentials for Six Sigma Analytics](https://bookdown.org/content/4e34e34f-ca48-4090-90ca-8ae7b1b65e0e/)
 - [ ] ⭐[The Tidyverse Cookbook](https://rstudio-education.github.io/tidyverse-cookbook/)
+- [ ] [Introduction to Data Science: Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 - [ ] [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/index.html)
 - [ ] [Data Visualization with ggplot2](https://viz-ggplot2.rsquaredacademy.com/)
 - [ ] [Just Enough R](https://benwhalley.github.io/just-enough-r/)
