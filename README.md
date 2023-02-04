@@ -47,6 +47,7 @@ R Markdown
 ### Data Science
 - [ ] ⭐[Data Science for Everyone](https://ajr348.github.io/ds4e_book/index.html) from NYU Data Science
 - [ ] [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) UC Berkeley
+- [ ] [The Art of Data Science](https://bookdown.org/rdpeng/artofdatascience/)
 
 ### Styleguide
 - [ ] [The tidyverse style guide](https://style.tidyverse.org/index.html)
