@@ -38,6 +38,8 @@
 
 R Markdown
 - [ ] [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [ ] [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [ ] [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 
 
 ### Python
